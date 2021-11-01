@@ -4,8 +4,10 @@
   "description": "A BMI calculator made using Express and Node",
   "main": "logic.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start": "node logic.js"
+    "start": "node src/logic.js"
+    "build": "webpack"
+    //"test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
