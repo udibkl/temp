@@ -5,9 +5,6 @@
   "main": "logic.js",
   "scripts": {
     "start": "node src/logic.js"
-    "build": "webpack"
-    
-    
   },
   "repository": {
     "type": "git",
