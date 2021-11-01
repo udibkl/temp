@@ -4,7 +4,7 @@
   "description": "A BMI calculator made using Express and Node",
   "main": "logic.js",
   "scripts": {
-    "start": "node src/logic.js"
+    "start": "node logic.js"
   },
   "repository": {
     "type": "git",
