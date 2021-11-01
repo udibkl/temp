@@ -16,8 +16,8 @@ app.post('/',(req,res)=>
     res.send('Your BMI is '+s);
 })
 
-app.listen(3000,()=>
-{
-    console.log("Running in port 3000");
+const port = process.env.PORT || 3000
 
+app.listen(port, () =>{
+console.log('listening') ;
 })
