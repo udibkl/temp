@@ -1,7 +1,4 @@
-
-
-
-
+/* CSS File */
 button {
     --c:#fff;
     background: linear-gradient(90deg, #0000 33%, #fff5,#0000 67%) var(--_p,100%)/300% no-repeat,#E97F02;
