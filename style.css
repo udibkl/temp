@@ -1,5 +1,13 @@
-
-
+/* CSS FOR TEXT INPUT */
+input[type=text] {
+    width: 89%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: rgb(120, 180, 180);
+    color: azure;
+    border-radius: 9rem;
+  }
 
 
 button {
